@@ -2,6 +2,7 @@
 A prototype fantasy top down shooter created in Unity for self-education purposes.
 
 This prototype features a robust set of features, including:
+
 An upgrade system
 
 Animated main character, animated enemies
