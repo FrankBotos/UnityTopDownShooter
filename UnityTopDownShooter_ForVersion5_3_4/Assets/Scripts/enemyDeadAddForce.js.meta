@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 31b56c69577d78d438fe4461e7883c79
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - soulFilaments: {fileID: 100020, guid: 90f8ccf520b793c42b6aaa24e1742284, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
